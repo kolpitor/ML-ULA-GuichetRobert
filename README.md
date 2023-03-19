@@ -1,6 +1,6 @@
 # ML-ULA-GuichetRobert
 
-Project create as part of Machine Learning – Unsupervised Learning and Agents epitech project
+Project create as part of Machine Learning – Unsupervised Learning and Agents Epitech project
 
 Made by Alexandre Guichet and Adam Robert
 
