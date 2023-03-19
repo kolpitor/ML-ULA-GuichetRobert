@@ -4,6 +4,6 @@ Project create as part of Machine Learning – Unsupervised Learning and Agents 
 
 Made by Alexandre Guichet and Adam Robert
 
-Exercices 1/5 : Adam Robert
+Exercices 1/5 : Adam Robert (@Adam-RM)
 
-Exercices 2/3/4 : Alexandre Guichet
+Exercices 2/3/4 : Alexandre Guichet (@kolpitor)
